@@ -1,0 +1,1 @@
+find ~/Documentos/code/BasecampShell00 -type f -name "~*"  

@@ -1,1 +1,1 @@
-ls -l
+ls -p -tu --time=atime --group-directories-first | grep -v '^\.' | paste -sd, -
